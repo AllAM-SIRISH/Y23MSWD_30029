@@ -1,0 +1,169 @@
+18-7-24
+1.npm=node package manager
+2.npx=
+npx is useful than the npm, because npx will delete the temporary files
+npm install all packages binary files 
+java script runs in side browser only.
+"in order to to work java script in our system we node js run time environment"
+node js is an run time environment to run the javascript.
+Do not upload node under score module in the in the gethub account.
+Public is a directory were users and directries can be created.
+Src is a foulder. it is a source code.
+Getignore where you can mention the foulders and the files which u dont want push in the gethub.
+sensetive files can be stored the in the .env files.
+package .json is also known as the configuration files.
+  
+use es7 to create the component and there functionalities and code snippets.
+enter the react 
+All components course must be wriiten in side app dev tag only
+use image by img tage
+use image and save them either src foulder or public foulder.
+use ctrl+F5 to refresh the browser.(clears cacnhe history)
+ctrl+ c is used to stop the running the client applications.
+use insepect to track the web applications 
+tasks : create five pictures of students faculty, cafeteria and transport aand libarey 
+Display the pictuers in the column wise.
+Using app.js and app.css and colours 
+
+React is a library which needinitall by using the command npm and npx
+npm is use to install libraray or packages from the reposotries in to ur project environment
+the following are the librarys used in our mernstack
+1. create "react app"
+2. mui(material ui)
+3. react - router-dom
+4. multers
+5. axios
+6. cors
+7. mongoose
+8. express 
+9. jsonwebtoken
+10. QRcode
+11. smtb mailer 
+Inorder to design react appilication we need node js environment
+Java script important topics to learn
+1. variable declaration(let,where)
+2. const,functions,switch,array,filter,collections
+3. loops,objects,class declrations
+In react everything is a component 
+React design and develope the component 
+componets are two types:
+1.fuction based
+2.class based 
+react is used to develope the spa(single page application)
+rafce
+r for react 
+a for arrow
+f for fuction
+c for componets
+e for exit
+
+date: 24-7-24
+fuction should have arrow function =>.
+In react java script one function , one return type one div tag.
+task
+Create five components 
+1. Header(Use a logo of kl with title as kl university)
+2. footer(display copy rights reserved MSWD 2024)
+3. faculty(In faculty component display use three faculty deteails as list of faculty id, name; and designation and deparment)(hint: use html ul tags)
+4. student(display use three student details display as list of student id, name,brah and year)(hint: use html ul tags courses)(use 2 courses , course code , name, ltps,creadts)
+use functions based components.
+(place kl logo in src folder, img is also a component)
+5. course
+
+
+
+how to styling a component
+a componenet can be styled using a property which is common for all components
+in react using Spaceholder called{}
+EXAMPLE:
+
+
+TASKS 
+facultys course statement either in parts or tables or grids
+
+
+
+
+25-7-24
+Styleing react components
+1.global styles react component we can style in 3 ways
+2.global style 
+3.inline style 
+4.use a varible or apply within the component
+if any varible declared using curl brace those are objects
+note:the best practice to apply or to create the styles within the component
+
+
+passing data to the components 
+1.data to the components is called state.
+2.data hold by the component is called state 
+3. passing the data or changeing the data
+4. passing data as value to a component as arguments 
+5. it just like a calling a function 
+6. passing data is paroms
+7. props is used to hold multiple varibles can be passed as a collections.
+8. props can accept dissimilar or different types of the data
+react use state management
+use hooks or redux
+9.de-fragmentation we can defragment data from props using-{}
+10. create a component user which takes two values 
+:=1. user name.
+2.user type.
+
+
+
+
+
+
+
+
+
+
+=> <User name= "ABC" type="Guest"/>
+
+
+constn User(name,type)=>{
+return(
+       <div>
+          <h2>Name of the user {name}
+logged in as {type}</h2>
+</div>
+)
+}
+
+
+
+
+new function
+const user({props})=>{
+return (
+<div>
+<h2>Name of the user{props.name} logged in as {props.type}</h2>
+
+
+
+tasks : create a collection or objects for 
+time table (date , hours, subjects , rooms).
+assignments with props (subject, due date ,year, and grading ,type of assignment).
+apply the styles of tables and grids or cards
+
+
+
+write submit all executions by Monday.
+use ctrl+f5 
+
+
+
+29-7-24
+tracking of academic  project for assignment a student using dash bord 
+
+
+
+
+
+
+
+
+
+
+
